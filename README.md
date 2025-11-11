@@ -1,3 +1,4 @@
 # MovieRecommendation
-A content based movie recommender system using cosine similarity
-
+This project is a Content-Based Movie Recommendation System built using Python, Machine Learning, and Streamlit.
+It recommends movies similar to the selected movie by analyzing movie descriptions, genres, keywords, cast, and crew.
+The ML model is trained using TF-IDF Vectorization and Cosine Similarity, and the final model is saved using Pickle for fast loading.
